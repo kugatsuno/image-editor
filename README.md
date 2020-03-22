@@ -4,7 +4,7 @@
 
 This is a personal project to explore image manipulation through an android application, much like instagram filters.
 
-Built in Java, this application manipulates images with the [glide-transformation](https://github.com/wasabeef/glide-transformations) library, and is designed with the MVC framework.
+Built in Java, this application manipulates images with the [glide-transformation](https://github.com/wasabeef/glide-transformations) library, and is intended to demonstrate the ability to build using the MVC framework, while using the Gradle build system.
 
 ## Instructions
 
